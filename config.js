@@ -15,14 +15,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282331660134','6282331660134','6282331660134','6282331660134']
-global.premium = ['6282331660134']
+global.owner = ['918910105138']
+global.premium = ['918910105138']
 global.botnma = 'Elaina - MD'
-global.ownernma = 'Skylarkaf'
+global.ownernma = 'CARL'
 global.packname = '' 
-global.author = '⫹⫺ Created By : Elaina - MD\n⫹⫺ Owner : SkylarKaf\n⫹⫺ Instagram : @skylarkaf_\n⫹⫺ Website : https://s.id/Skylarkaf'
+global.author = '⫹⫺ Created By : Elaina - MD\n⫹⫺ Owner : Carl\n⫹⫺ Instagram : carl.ed_2003\n⫹⫺ Website : https://s.id/Skylarkaf'
 global.sessionName = 'Web'
-global.prefa = ['!','.','#']
+global.prefa = ['!','.','#','?','+','/','&',':',';','¶','•','=','€','¥','£','-','|','~','¢']
 global.sp = '>'
 global.mess = {
     success: 'Success',
